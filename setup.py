@@ -1,5 +1,4 @@
 
-Learn more or give us feedback
 from setuptools import setup
 
 with open("README.md", "r") as fh:
