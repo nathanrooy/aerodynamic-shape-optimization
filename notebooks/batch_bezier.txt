@@ -1,0 +1,9 @@
+LOAD
+airfoil.txt
+
+oper
+visc 1000000
+pacc
+pacc_results.txt
+
+alfa 0
